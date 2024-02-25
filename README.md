@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/d9585be0-a800-4e7a-9c42-e2fb31c12a87/project/018de071-833e-4fe8-9028-2f5eee8b3f2d.svg)](https://wakatime.com/badge/user/d9585be0-a800-4e7a-9c42-e2fb31c12a87/project/018de071-833e-4fe8-9028-2f5eee8b3f2d)
+
 # Social Media Site with Django
 
 This is an example project showcasing a Social Media Site built with Django.
